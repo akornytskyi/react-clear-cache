@@ -12,7 +12,7 @@ const jsonData = {
 const jsonContent = JSON.stringify(jsonData);
 
 fs.writeFile(
-  './public/meta.json',
+  './build/meta.json',
   jsonContent,
   { flag: 'w+', encoding: 'utf8' },
   err => {
