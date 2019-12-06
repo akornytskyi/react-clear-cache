@@ -1,8 +1,8 @@
 {
-  "name": "react-clear-cache",
-  "version": "ak061220192",
+  "name": "react-clear-cache-fixed",
+  "version": "1.0.27",
   "description": "A component to manage application updates.",
-  "author": "noahjohn9259",
+  "author": "akornytskyi",
   "license": "MIT",
   "repository": "akornytskyi/react-clear-cache",
   "main": "dist/index.js",
